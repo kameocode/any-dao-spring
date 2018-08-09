@@ -39,9 +39,9 @@ fun KRoot<UserODB>.hasActiveStatus() {
     this[UserODB::status] eq UserStatus.ACTIVE
 }
 fun KRoot<UserODB>.isUserAllowedToCreateTask() {
-    this.hasAdminOrNormalRole()
+    hasAdminOrNormalRole()
     or
-    this.hasActiveStatus()
+    hasActiveStatus()
 }
 
 ...
