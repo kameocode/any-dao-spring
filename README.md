@@ -1,6 +1,6 @@
 # any-dao-spring #
 
-Any-dao-spring provides a [Kotlin](http://www.kotlinlang.org/) extension for spring JPA repositories.
+Any-dao-spring provides an [any-dao](https://github.com/kameocode/any-dao) Kotlin extension for spring JPA repositories.
 
 Why? to have typesafe queries which may be composed (similar to JpaSepcificationExecutor) but in pure Kotlin
 

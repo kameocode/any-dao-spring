@@ -22,7 +22,7 @@ apply plugin: 'signing'
 
 group 'com.kameocode'
 archivesBaseName = "any-dao-spring"
-version '1.0.2'
+version '1.0.3-SNAPSHOT'
 
 description 'any-dao-spring is an any-dao Kotlin extension for spring JPA repositories.'
 
