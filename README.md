@@ -1,3 +1,5 @@
+[![Maven central](https://maven-badges.herokuapp.com/maven-central/com.kameocode/any-dao/badge.svg)](http://repo1.maven.org/maven2/com/kameocode/any-dao-spring/1.0.2/)
+
 # any-dao-spring #
 
 Any-dao-spring provides an [any-dao](https://github.com/kameocode/any-dao) Kotlin extension for spring JPA repositories.
